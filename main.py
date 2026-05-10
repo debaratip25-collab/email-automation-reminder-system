@@ -1,0 +1,1 @@
+print("Use:\n- uvicorn api.app:app --reload\n- python run_worker.py")

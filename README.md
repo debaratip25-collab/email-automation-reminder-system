@@ -179,7 +179,6 @@ If you add new placeholders like `{{ demo_id }}`, make sure your render context 
 ---
 
 ## Screenshots / Evidence
-- ![Dashboard](images/01_swagger_docs.png)
 - ![bulk seed response](images/02_seed_bulk_response.png)
 - ![worker sending batches](images/03_worker_sending_batches.png)
 - ![messages list with many rows](images/05_messages_list.png)
